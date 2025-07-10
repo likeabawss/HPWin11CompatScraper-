@@ -11,8 +11,8 @@ param(
 $url = "https://support.hp.com/us-en/document/ish_4890350-4890415-16"
 
 
-Write-Host "HP Windows 11 Compatibility Scraper - Robust Selenium" -ForegroundColor Green
-Write-Host "=====================================================" -ForegroundColor Green
+Write-Host "HP Windows 11 Compatibility Scraper" -ForegroundColor Green
+Write-Host "===================================" -ForegroundColor Green
 Write-Host ""
 
 # Always delete previous output files on start
